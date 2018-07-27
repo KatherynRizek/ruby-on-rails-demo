@@ -1,25 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository uses the Ruby tutorials found on https://blog.blindside.io/developing-a-ruby-on-rails-app-with-docker-compose-d75b20334634 to develop the docker containers and on https://guides.rubyonrails.org/getting_started.html to develop the blog.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # ruby-on-rails-demo
